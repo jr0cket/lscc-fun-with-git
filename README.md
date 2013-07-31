@@ -3,4 +3,4 @@ lscc-fun-with-git
 
 fun with git
 
-![img](/IMG.jpg)
+![img](http://i43.tinypic.com/33bfvoh.jpg)
