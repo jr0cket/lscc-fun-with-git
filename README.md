@@ -1,4 +1,4 @@
 lscc-fun-with-git
 =================
 
-fun with git
+Loads of fun with git
